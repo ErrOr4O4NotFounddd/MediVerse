@@ -1,0 +1,12 @@
+# Environment files
+.env
+
+# Real database config
+config/db.php
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
