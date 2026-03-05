@@ -100,6 +100,32 @@ Mediverse
 ├── assets/ # Images and UI resources
 └── README.md
 
+## 📸 Screenshots
+
+### Landing Page
+![Landing Page](Landing%20page.png)
+
+### Doctor Section
+![Doctor Section](Doctor%20section.png)
+
+### Hospital Section
+![Hospital Section](Hospital%20sections.png)
+
+### Pharmacy Section
+![Pharmacy Section](Pharmacy%20section.png)
+
+### Lab Test Section
+![Lab Test](Lab%20test%20section.png)
+
+### Ambulance Section
+![Ambulance](Ambulance%20section.png)
+
+### Blood Section
+![Blood](Blood%20section.png)
+
+### Live Bed Section
+![Live Bed](Live%20bed%20section.png)
+
 
 ---
 
@@ -134,3 +160,4 @@ Developed by a team of Computer Science students as part of a university academi
 ---
 
 ⭐ If you find this project interesting, consider giving it a star.
+
